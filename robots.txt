@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eyeiheesei.0o00.ru/sitemap.xml
